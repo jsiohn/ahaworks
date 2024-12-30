@@ -1,3 +1,13 @@
 .page {
   font-family: "Inter-Regular", sans-serif;
+  padding: 30px;
+  background-image: url("../../assets/ahaBackground.jpg");
+  background-position: left top;
+  background-size: auto;
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+
+.page__content {
+  background-color: #fff;
 }

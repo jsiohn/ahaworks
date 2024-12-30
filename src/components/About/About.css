@@ -1,0 +1,20 @@
+.about {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+.about__main {
+  max-width: 840px;
+}
+
+.about__quote {
+  color: #686868;
+  margin: 0;
+  font-weight: 700;
+  font-style: italic;
+  border: 0 solid #1a1a1a;
+  border-left-width: 4px;
+  padding: 0 0 0 10px;
+}
