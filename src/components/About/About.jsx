@@ -4,7 +4,7 @@ import Sidebar from "../Sidebar/Sidebar";
 function About() {
   return (
     <main className="about">
-      <section className="about__main">
+      <section className="about__content">
         <h2 className="about__title">About AHA!</h2>
         <p className="about__description">
           We offer our community a convenient low cost spay and neuter program

@@ -1,0 +1,25 @@
+.spay-neuter {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+.spay-neuter__content {
+  max-width: 840px;
+}
+
+.red-text {
+  color: #f00;
+  font-weight: 700;
+}
+
+.maroon-text {
+  color: #800000;
+  font-weight: 700;
+}
+
+.green-text {
+  color: #008000;
+  font-weight: 700;
+}
