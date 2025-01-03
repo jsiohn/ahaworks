@@ -1,0 +1,10 @@
+.resources {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+.resources__content {
+  max-width: 840px;
+}

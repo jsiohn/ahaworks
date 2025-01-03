@@ -1,0 +1,10 @@
+.resale {
+  display: flex;
+  justify-content: center;
+  gap: 100px;
+  margin-top: 20px;
+}
+
+.resale__content {
+  max-width: 840px;
+}
