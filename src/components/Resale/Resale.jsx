@@ -10,11 +10,15 @@ function Resale() {
           AHA! Resale Shop Helps Fund our Programs
         </h3>
         <p className="resale__description">
-          AHA!’s resale shop is at 2048 Grand Avenue in Lindenhurst, in Linden
-          Plaza. You’ll find hundreds of quality items (including some
-          consignment) at the right prices! Items include furniture, housewares,
-          shoes and handbags, select clothing, beautiful vintage linens, current
-          books, new pet beds and pet toys, home decor items, and more.
+          AHA!’s resale shop is at{" "}
+          <a href="https://maps.app.goo.gl/XMFtYjCWPsVAV8EZ6" target="_blank">
+            2048 Grand Avenue in Lindenhurst
+          </a>
+          , in Linden Plaza. You’ll find hundreds of quality items (including
+          some consignment) at the right prices! Items include furniture,
+          housewares, shoes and handbags, select clothing, beautiful vintage
+          linens, current books, new pet beds and pet toys, home decor items,
+          and more.
           <br />
           <br />
           <strong>All profits fund AHA!’s animal welfare programs.</strong>

@@ -32,10 +32,6 @@ function SpayNeuter() {
         <h4 className="spay-neuter__section-title">General Information</h4>
         <ul className="spay-neuter__general-info">
           <li>
-            Clinic days are <strong>Monday, Tuesday, Wednesday,</strong> and
-            <strong> Friday.</strong>
-          </li>
-          <li>
             <strong>Drop-off time varies.</strong> You will be given your
             drop-off time when your appointment is confirmed.
           </li>
@@ -46,17 +42,16 @@ function SpayNeuter() {
           </li>
         </ul>
         <h4 className="spay-neuter__section-title">Pricing - Cats</h4>
-        <em className="red-text">Female cats $140, Male cats $115</em>
+        <em className="red-text">Feline Spay/Neuter: $140</em>
         <p>
           The service includes spay or neuter surgery, rabies and distemper
           vaccines, and pain medication injection.
         </p>
         <ul>
           <li>
-            Optional microchip (on day of surgery only) is available for aa
-            small fee.
+            Optional microchip (on day of surgery only) is available for a small
+            fee.
           </li>
-          <li>There is an extra fee if cat is in heat.</li>
         </ul>
         <p className="maroon-text">
           For help with feral cat spay and neuter, please see the Feral Cat

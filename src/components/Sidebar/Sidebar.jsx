@@ -5,12 +5,37 @@ function Sidebar() {
     <aside className="sidebar">
       <section className="sidebar__widget sidebar__donation">
         <h4 className="sidebar__widget-title">Donate Now</h4>
+        <form
+          action="https://www.paypal.com/cgi-bin/webscr"
+          method="post"
+          target="_top"
+          className="sidebar__donation-form"
+        >
+          <input type="hidden" name="cmd" value="_s-xclick" />
+          <input type="hidden" name="hosted_button_id" value="P49GFA7WMYEGE" />
+          <input
+            type="image"
+            src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif"
+            border="0"
+            name="submit"
+            title="PayPal - The safer, easier way to pay online!"
+            alt="Donate with PayPal button"
+          />
+          <img
+            alt=""
+            border="0"
+            src="https://www.paypal.com/en_US/i/scr/pixel.gif"
+            width="1"
+            height="1"
+          />
+        </form>
       </section>
       <section className="sidebar__widget sidebar__spayneuter">
         <h4 className="sidebar__widget-title">Spay Neuter Program Contact</h4>
         <p className="sidebar__spayneuter-text">
           To schedule and appointment for spaying or neutering, please call
-          <strong> 847-960-8689</strong> (extension #1).
+          <br />
+          <strong>847-960-8689</strong>.
           <br />
           <br />
           We are a volunteer organization and will return calls as quickly as
