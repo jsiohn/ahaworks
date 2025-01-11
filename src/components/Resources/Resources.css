@@ -8,3 +8,9 @@
 .resources__content {
   max-width: 840px;
 }
+
+.resources__list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
