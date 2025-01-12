@@ -3,6 +3,7 @@
   justify-content: center;
   gap: 100px;
   margin-top: 20px;
+  padding: 0 10px;
 }
 
 .spay-neuter__content {
@@ -22,4 +23,11 @@
 .green-text {
   color: #008000;
   font-weight: 700;
+}
+
+@media screen and (max-width: 930px) {
+  .spay-neuter {
+    flex-direction: column;
+    align-items: center;
+  }
 }

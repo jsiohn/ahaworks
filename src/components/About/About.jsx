@@ -27,7 +27,7 @@ function About() {
         </p>
         <img
           className="about__video"
-          src="https://via.placeholder.com/640x360"
+          src="https://placehold.co/600x400"
           alt="AHA! Spay Neuter Video"
         />
         <h3 className="about__goal-title">AHA! Goal</h3>

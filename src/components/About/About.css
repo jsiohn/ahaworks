@@ -3,6 +3,7 @@
   justify-content: center;
   gap: 100px;
   margin-top: 20px;
+  padding: 0 10px;
 }
 
 .about__content {
@@ -17,4 +18,15 @@
   border: 0 solid #1a1a1a;
   border-left-width: 4px;
   padding: 0 0 0 10px;
+}
+
+.about__video {
+  max-width: 100%;
+}
+
+@media screen and (max-width: 930px) {
+  .about {
+    flex-direction: column;
+    align-items: center;
+  }
 }

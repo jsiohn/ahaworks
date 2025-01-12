@@ -67,3 +67,46 @@
   display: flex;
   justify-content: center;
 }
+
+.header__banner {
+  max-width: 100%;
+  height: 100%;
+}
+
+@media screen and (max-width: 1260px) {
+  .header {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-top: 20px;
+  }
+}
+
+@media screen and (max-width: 930px) {
+  .header {
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 630px) {
+  .header__subtitle {
+    visibility: hidden;
+  }
+}
+
+@media screen and (max-width: 495px) {
+  .header {
+    height: 200px;
+  }
+
+  .header__title-container {
+    height: 20px;
+  }
+  .header__title {
+    font-size: 18px;
+  }
+
+  .header__nav-link {
+    font-size: 12px;
+  }
+}
