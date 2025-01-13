@@ -1,9 +1,10 @@
 .page {
+  height: 100%;
   font-family: "Inter-Regular", sans-serif;
-  padding: 30px;
+  padding: 20px;
   background-image: url("../../assets/ahaBackground.jpg");
   background-position: left top;
-  background-size: auto;
+  background-size: contain;
   background-repeat: repeat;
   background-attachment: fixed;
 }

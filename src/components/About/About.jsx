@@ -25,11 +25,20 @@ function About() {
           Share our unique spay neuter video with all of your animal-loving
           friends.
         </p>
-        <img
+        <iframe
+          className="about__video"
+          src="https://www.youtube.com/embed/tmbMph1uCls?si=o_ewBtfIrMykSUA7"
+          title="Spay/Neuter Music Video"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+        {/* <img
           className="about__video"
           src="https://placehold.co/600x400"
           alt="AHA! Spay Neuter Video"
-        />
+        /> */}
         <h3 className="about__goal-title">AHA! Goal</h3>
         <p className="about__goal-description">
           Our goal is to engage humans in innovative learning programs to help
