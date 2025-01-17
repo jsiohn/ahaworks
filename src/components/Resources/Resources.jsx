@@ -33,7 +33,7 @@ function Resources() {
             resource for all things TNR (trap/neuter/return). Low cost spay
             neuter for ferals, sheltering advice, and many more resources.
             <a
-              href="http://www.spayandstay.org"
+              href="https://www.spayandstay.org"
               target="_blank"
               className="resources__link"
             >
@@ -44,7 +44,7 @@ function Resources() {
           <li>
             <strong>McHenry County:</strong> Contact{" "}
             <a
-              href="http://www.asap-usa.org/"
+              href="https://www.asap-usa.org/"
               target="_blank"
               className="resources__link"
             >
@@ -68,7 +68,7 @@ function Resources() {
           <li>
             Pre-made shelter you can order.{" "}
             <a
-              href="http://www.feralvilla.com/"
+              href="https://www.feralvilla.com/"
               target="_blank"
               className="resources__link"
             >
@@ -78,7 +78,7 @@ function Resources() {
           <li>
             Lightweight and easy to make:{" "}
             <a
-              href="http://www.neighborhoodcats.org/HOW_TO_FERAL_CAT_WINTER_SHELTER"
+              href="https://www.neighborhoodcats.org/HOW_TO_FERAL_CAT_WINTER_SHELTER"
               target="_blank"
               className="resources__link"
             >
@@ -99,7 +99,7 @@ function Resources() {
           <li>
             Clever shelter using easy-to-find materials:{" "}
             <a
-              href="http://www.spayandstay.org/wintershelter.htm"
+              href="https://www.spayandstay.org/wintershelter.htm"
               target="_blank"
               className="resources__link"
             >
@@ -114,7 +114,7 @@ function Resources() {
             check out their Feral Friends network to locate feral cat programs
             in your area.{" "}
             <a
-              href="http://www.alleycat.org"
+              href="https://www.alleycat.org"
               target="_blank"
               className="resources__link"
             >
@@ -128,7 +128,7 @@ function Resources() {
             For a good basic primer on pet nutrition, visit All the Best Pet
             Care‘s pet nutrition library.{" "}
             <a
-              href="http://www.allthebestpetcare.com/information-library/"
+              href="https://www.allthebestpetcare.com/information-library/"
               target="_blank"
               className="resources__link"
             >
@@ -139,7 +139,7 @@ function Resources() {
             The American Holistic Veterinary Medical Association website
             includes a search feature for locating a holistic vet in your area.{" "}
             <a
-              href="http://www.ahvma.org/"
+              href="https://www.ahvma.org/"
               target="_blank"
               className="resources__link"
             >
@@ -149,7 +149,7 @@ function Resources() {
           <li>
             Animal Wellness Magazine is a great resource for holistic pet care.{" "}
             <a
-              href="http://www.animalwellnessmagazine.com/index.php"
+              href="https://www.animalwellnessmagazine.com/index.php"
               target="_blank"
               className="resources__link"
             >
@@ -171,7 +171,7 @@ function Resources() {
             Healthy Pet Net features high quality dog and cat food, supplements,
             and pet safe cleaning products.{" "}
             <a
-              href="http://www.healthypetnet.com"
+              href="https://www.healthypetnet.com"
               target="_blank"
               className="resources__link"
             >
@@ -181,7 +181,7 @@ function Resources() {
           <li>
             The Whole Dog Journal helps you achieve total wellness for your dog.{" "}
             <a
-              href="http://www.whole-dog-journal.com/</li>"
+              href="https://www.whole-dog-journal.com/</li>"
               target="_blank"
               className="resources__link"
             >
@@ -214,7 +214,7 @@ function Resources() {
           <li>
             Flint Creek Wildlife Rehabilitation:{" "}
             <a
-              href="http://www.flintcreekwildlife.org/"
+              href="https://www.flintcreekwildlife.org/"
               target="_blank"
               className="resources__link"
             >
@@ -225,7 +225,7 @@ function Resources() {
             Information about the wonderful Fellow Mortals Wildlife
             Rehabilitation organization can be found at{" "}
             <a
-              href="http://www.fellowmortals.org/"
+              href="https://www.fellowmortals.org/"
               target="_blank"
               className="resources__link"
             >
@@ -263,7 +263,7 @@ function Resources() {
             A no-kill nation is within our reach. Visit the No Kill Advocacy
             center to see how.{" "}
             <a
-              href="http://www.nokilladvocacycenter.org/"
+              href="https://www.nokilladvocacycenter.org/"
               target="_blank"
               className="resources__link"
             >
@@ -285,7 +285,7 @@ function Resources() {
             The Animal Legal Defense Fund has been winning cases on behalf of
             animals for more than 25 years.{" "}
             <a
-              href="http://www.aldf.org/"
+              href="https://www.aldf.org/"
               target="_blank"
               className="resources__link"
             >
@@ -296,7 +296,7 @@ function Resources() {
             Farm animal reform is brought to light by wonderful organizations
             like The Farm Sanctuary.{" "}
             <a
-              href="http://www.farmsanctuary.org/"
+              href="https://www.farmsanctuary.org/"
               target="_blank"
               className="resources__link"
             >
@@ -307,7 +307,7 @@ function Resources() {
             The Best Friends Network is a great place to connect with other
             animal lovers nationwide.{" "}
             <a
-              href="http://network.bestfriends.org/"
+              href="https://network.bestfriends.org/"
               target="_blank"
               className="resources__link"
             >
@@ -374,7 +374,7 @@ function Resources() {
           <li>
             Cats International website:
             <a
-              href="http://www.catsinternational.org/index.html"
+              href="https://www.catsinternational.org/index.html"
               target="_blank"
               className="resources__link"
             >
@@ -395,7 +395,7 @@ function Resources() {
             has visuals to show you the proper way to trim, so you don’t hurt
             your pup:{" "}
             <a
-              href="http://www.dogsnaturallymagazine.com/trimming-your-dogs-toenails"
+              href="https://www.dogsnaturallymagazine.com/trimming-your-dogs-toenails"
               target="_blank"
               className="resources__link"
             >
