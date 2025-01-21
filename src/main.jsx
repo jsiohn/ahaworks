@@ -6,7 +6,7 @@ import App from "./components/App/App";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <HashRouter>
+    <HashRouter basename="/ahaworks">
       <App />
     </HashRouter>
   </StrictMode>
