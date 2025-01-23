@@ -13,7 +13,25 @@
   background-color: #fff;
 }
 
-@media screen and (max-width: 670px) {
+p,
+li {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-size: 30px;
+}
+
+h2 {
+  font-size: 24px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+@media screen and (max-width: 730px) {
   .page {
     background: none;
   }

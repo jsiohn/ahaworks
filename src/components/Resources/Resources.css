@@ -16,6 +16,10 @@
   gap: 5px;
 }
 
+.resources__link {
+  word-wrap: break-word;
+}
+
 @media screen and (max-width: 930px) {
   .resources {
     flex-direction: column;
