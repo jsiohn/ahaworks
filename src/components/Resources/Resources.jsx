@@ -209,7 +209,7 @@ function Resources() {
             <a href={ResourceList} target="_blank" className="resources__link">
               Wildlife Resource List
             </a>{" "}
-            for northern Illinois
+            for Northern Illinois
           </li>
           <li>
             Flint Creek Wildlife Rehabilitation:{" "}
@@ -372,7 +372,7 @@ function Resources() {
             </a>
           </li>
           <li>
-            Cats International website:
+            Cats International website:{" "}
             <a
               href="https://www.catsinternational.org/index.html"
               target="_blank"

@@ -14,11 +14,10 @@ function Resale() {
           <a href="https://maps.app.goo.gl/XMFtYjCWPsVAV8EZ6" target="_blank">
             2048 Grand Avenue in Lindenhurst
           </a>
-          , in Linden Plaza. You’ll find hundreds of quality items (including
-          some consignment) at the right prices! Items include furniture,
-          housewares, shoes and handbags, select clothing, beautiful vintage
-          linens, current books, new pet beds and pet toys, home decor items,
-          and more.
+          , in Linden Plaza. You’ll find hundreds of quality items at the right
+          prices! Items include furniture, housewares, shoes and handbags,
+          select clothing, beautiful vintage linens, current books, new pet beds
+          and pet toys, home decor items, and more.
           <br />
           <br />
           <strong>All profits fund AHA!’s animal welfare programs.</strong>
@@ -35,7 +34,7 @@ function Resale() {
         </ul>
         <p className="resale__description">
           Donors receive an immediate donation receipt. Donations are
-          tax-deductible to the extend allowed by law.
+          tax-deductible to the extent allowed by law.
         </p>
       </section>
       <section className="resale__sidebar">

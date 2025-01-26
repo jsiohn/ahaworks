@@ -36,8 +36,8 @@ function SpayNeuter() {
             drop-off time when your appointment is confirmed.
           </li>
           <li>
-            You will need to complete some simplee paperwork, so please plan to
-            arrivea few minutes early.
+            You will need to complete some simple paperwork, so please plan to
+            arrive a few minutes early.
             <strong> All cats must be in carriers.</strong>
           </li>
         </ul>
