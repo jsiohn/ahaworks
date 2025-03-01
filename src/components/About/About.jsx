@@ -43,7 +43,7 @@ function About() {
         <p className="about__goal-description">
           Our goal is to engage humans in innovative learning programs to help
           them to better understand and live in harmony with the many
-          magnificent creatures with whom we share out planet. After all:
+          magnificent creatures with whom we share our planet. After all:
         </p>
         <br />
         <blockquote className="about__quote">
