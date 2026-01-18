@@ -58,7 +58,7 @@ function Sidebar() {
           Mailing Address: PO Box 267, Lake Villa, IL 60046
           <br />
           <br />
-          <a href="mailto:info@ahaworks.org">info@ahaworks.org</a>
+          {/* <a href="mailto:info@ahaworks.org">info@ahaworks.org</a> */}
         </p>
       </section>
     </aside>
